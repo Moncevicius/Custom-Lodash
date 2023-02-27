@@ -18,5 +18,8 @@
   "homepage": "https://github.com/Moncevicius/Custom-Lodash#readme",
   "devDependencies": {
     "jest": "^29.4.3"
+  },
+  "jest": {
+    "collectCoverage":true
   }
 }
