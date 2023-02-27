@@ -1,0 +1,22 @@
+{
+  "name": "custom-lodash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/objects.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moncevicius/Custom-Lodash.git"
+  },
+  "author": "Mantas Moncevicius",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Moncevicius/Custom-Lodash/issues"
+  },
+  "homepage": "https://github.com/Moncevicius/Custom-Lodash#readme",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
