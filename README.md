@@ -31,3 +31,7 @@ And **cover your code by unit tests** following next requirements:
 * [omitBy](https://lodash.com/docs/4.17.11#omitBy) 
 * [pick](https://lodash.com/docs/4.17.11#pick) 
 * [pickBy](https://lodash.com/docs/4.17.11#pickBy) 
+
+### Coverage:
+
+![221683734-0954441f-4fd2-46d8-bcaa-25947d2d2630](https://user-images.githubusercontent.com/72519578/235466315-b110a394-e0c9-46e4-9afb-92841304f927.png)
